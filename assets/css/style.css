@@ -1,5 +1,5 @@
 /* ===== VARIABLES IMPORT ===== */
-@import url('./variables.css');
+@import url('variables.css');
 
 /* ===== GLOBAL STYLES ===== */
 * {
@@ -881,4 +881,5 @@ main section {
     .trial {
         margin-bottom: 150px;
     }
+
 }
